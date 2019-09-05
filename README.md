@@ -11,7 +11,7 @@ This library is responsible to hold all the feed related packages and modules th
 
 #### Files that are present in this repo, and their usage
 
-1. pypackage.py
+1. pypackages.py
     - Holds all the python packages under an unified file
 	
 2. requirements.txt
