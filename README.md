@@ -30,4 +30,10 @@ This library is responsible to hold all the feed related packages and modules th
 5. producthelpers.py
 	- Holds isolated functions that can be added based on the customer requirements and run mainly for debug purpose
 	- Holds a class `productLevelHelpers` which holds both generic and customer related functions that run by triggering `__run__()` function having the list all the functions that have to be run
- 
+
+6. skeleton_feed.py
+    - Holds the outer structure that on few modifications get customer specific.
+    
+#### Starting with a feed upload process
+
+1. 
