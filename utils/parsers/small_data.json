@@ -1,0 +1,53 @@
+{
+    "feed": {
+        "catalog": {
+            "add": {
+                "items": [
+                    {
+                        "availability": "true",
+                        "bulkBuySKU": "0",
+                        "category": [
+                            "Bulbs",
+                            "Winter Planted Bulbs",
+                            "Fall/Winter Indoor"
+                        ],
+                        "catlevel1Name": "Bulbs",
+                        "catlevel2Name": "Winter Planted Bulbs",
+                        "catlevel3Name": "Fall/Winter Indoor",
+                        "characteristics": "Average,Bulb,Fancy,Fast,Green,Indoor Plant,Partial Sun/Shade,Sun,White,Winter,Winter,Winter",
+                        "color": [
+                            "Green"
+                        ],
+                        "common": "Amaryllis",
+                        "createdAt": "2014-09-04 01:32 PM",
+                        "cultivar": "Magic Green",
+                        "description": "Few flowers can rival the artful beauty of this amaryllis. Its pale green and ivory petals are decorated with fancy brushstrokes of pink and burgundy. Lightly ruffled edges add texture and personality. If you love amaryllis, this one will be a favorite. Each jumbo, 38/40 bulb produces 3 stems with 4 to 5 flowers per stem.",
+                        "flag": "product",
+                        "genus": "Amaryllis",
+                        "height": "20 Inches",
+                        "imageUrl": [
+                            "https://www.longfield-gardens.com/_ccLib/image/plants/DETA-1718.jpg"
+                        ],
+                        "isFeatured": "false",
+                        "occasion": "Any",
+                        "plantId": "1718",
+                        "price": 18.5,
+                        "productUrl": "https://www.longfield-gardens.com/plantname/Magic-Green-3840cm",
+                        "qty": 115.0,
+                        "quantityPerSKU": 1,
+                        "salePrice": 10.5,
+                        "size": [
+                            "38/40cm"
+                        ],
+                        "sku": "10000263",
+                        "species": "Single",
+                        "startingAt": "18.5",
+                        "title": "Amaryllis Single Magic Green",
+                        "uniqueId": "5306",
+                        "updatedAt": "2019-09-04 09:15 AM"
+                    }
+                ]
+            }
+        }
+    }
+}

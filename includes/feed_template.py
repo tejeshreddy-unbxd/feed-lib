@@ -58,7 +58,4 @@ class <customer_name>_Main(cv.UNBXD_MAIN):
         <customer_name>_Unbxd_Feed_Generator(self.path).Run()
         #cv.Unbxd_Feed_Uploader(self.path, self.API, self.API_VERSION).Run()
 <customer_name>_Main().Start()
-
-
-#python feed.py --unbxd_site_key=<SITE_KEY> --unbxd_api_key=<API_KEY>
  
