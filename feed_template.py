@@ -6,8 +6,8 @@ Description:
 To fetch <customerName> product catalog, convert to Unbxd feed format and upload to solution server.
 
 Usage:
-DEV  - $ python feed.py --unbxd_api_key=<dev-api-key> --unbxd_site_key=<dev-secret-key>
-PROD - $ python feed.py --unbxd_api_key=<prod-api-key> --unbxd_site_key=<prod-secret-key>
+DEV  - $ python feed.py --unbxd_api_key=<dev-secret-key> --unbxd_site_key=<dev-site-key>
+PROD - $ python feed.py --unbxd_api_key=<prod-secret-key> --unbxd_site_key=<prod-site-key>
 
 '''
 
@@ -60,7 +60,3 @@ class <customerName>Main(cv.UNBXD_MAIN):
 
 if __name__ == '__main__':
     <customerName>Main().start()
-
-
-#python feed.py --unbxd_site_key=<SITE_KEY> --unbxd_api_key=<API_KEY>
- 
