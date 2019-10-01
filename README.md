@@ -34,6 +34,9 @@ This library is responsible to hold all the feed related packages and modules th
 6. skeleton_feed.py
     - Holds the outer structure that on few modifications get customer specific.
     
-#### Starting with a feed upload process
+#### Tools to help in processing feed
 
-1. 
+1. [Colab link to generate schema](https://colab.research.google.com/drive/1jOKVgkZgR8KnL7-pyF2QoOO34VNp7Z3e)
+
+#### Starting with the feed upload process
+
